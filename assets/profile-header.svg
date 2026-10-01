@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
   <title id="title">Kiramat Ullah — Full Stack .NET Engineer</title>
   <desc id="desc">Professional GitHub profile header for Kiramat Ullah.</desc>
   <defs>
@@ -12,7 +12,7 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="410" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="26" fill="url(#bg)"/>
   <rect width="1200" height="152" rx="26" fill="url(#band)"/>
 
   <rect x="44" y="26" width="190" height="34" rx="10" fill="#151b23" stroke="#30363d"/>
@@ -30,25 +30,6 @@
   <text x="208" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#58a6ff" font-weight="600">Full Stack .NET Engineer</text>
   <text x="208" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#8b949e">Backend-focused · Secure systems · Data-intensive applications · Practical AI</text>
 
-  <rect x="44" y="270" width="244" height="54" rx="12" fill="#21262d" stroke="#30363d"/>
-  <circle cx="121" cy="297" r="6" fill="#f0f6fc"/>
-  <text x="139" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#f0f6fc" font-weight="700">Portfolio</text>
-
-  <rect x="304" y="270" width="244" height="54" rx="12" fill="#0a66c2"/>
-  <circle cx="326" cy="297" r="6" fill="#ffffff"/>
-  <text x="344" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="700">LinkedIn</text>
-  <text x="414" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dbeafe">Kiramat Ullah</text>
-
-  <rect x="564" y="270" width="244" height="54" rx="12" fill="#c62828"/>
-  <circle cx="586" cy="297" r="6" fill="#ffffff"/>
-  <text x="604" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="700">Email</text>
-  <text x="654" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fee2e2">kiramatdev@gmail.com</text>
-
-  <rect x="824" y="270" width="244" height="54" rx="12" fill="#1f7a46"/>
-  <circle cx="846" cy="297" r="6" fill="#ffffff"/>
-  <text x="864" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="700">Location</text>
-  <text x="933" y="303" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dcfce7">Islamabad, Pakistan</text>
-
-  <line x1="44" x2="1156" y1="350" y2="350" stroke="#30363d"/>
-  <text x="44" y="383" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#c9d1d9" font-weight="600">Building reliable .NET systems that remain secure, maintainable, and fast as they scale.</text>
+  <line x1="44" x2="1156" y1="278" y2="278" stroke="#30363d"/>
+  <text x="44" y="322" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#c9d1d9" font-weight="600">Building reliable .NET systems that remain secure, maintainable, and fast as they scale.</text>
 </svg>
