@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Kiramat Ullah — Full Stack .NET Engineer" width="100%" />
+  <a href="https://kiramat-ullah.vercel.app/">
+    <img src="./assets/profile-header.svg" alt="Kiramat Ullah — Full Stack .NET Engineer" width="100%" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://kiramat-ullah.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kiramat-ullah-3a304223b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kiramatdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kiramatdev%40gmail.com-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -23,6 +25,12 @@ Most of my work sits where backend engineering, data, and reliability meet. I en
 In my current role I contribute to **ABIS**, a government biometric identification system with **40+ million fingerprint, face, iris, and palm records**. My work includes bulk-ingestion and search APIs, legacy EFT data migration, PostgreSQL schema and query optimization, JWT/RBAC/PKI security workflows, and integration with WPF and web clients. I have also independently designed and built **[SachAI](https://sachaitech.com/)**, a production-oriented AI video authenticity platform made up of a .NET 10 backend, React 19 frontend, and Python FastAPI inference service.
 
 I care about writing software that is **maintainable, observable, secure, and practical to operate**. I prefer thoughtful engineering over unnecessary complexity, and I like systems where architecture, performance, security, testing, and delivery all support the same product goals.
+
+<p align="right">
+  <a href="https://sachaitech.com/">
+    <img src="https://img.shields.io/badge/LIVE_PRODUCT-OPEN_SachAI-1F7A46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open SachAI" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./assets/profile-overview.svg" alt="Professional overview" width="100%" />
