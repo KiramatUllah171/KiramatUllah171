@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536 294" role="img" aria-labelledby="title desc">
+  <title id="title">ABIS</title>
+  <desc id="desc">Automated Biometric Identification System work.</desc>
+  <rect width="536" height="294" rx="20" fill="#111820" stroke="#3d444d"/>
+  <text x="32" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#f0f6fc" font-weight="700">ABIS</text>
+  <rect x="350" y="22" width="150" height="34" rx="10" fill="#19395a"/>
+  <text x="425" y="44" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#dbeafe" font-weight="700">GOVERNMENT SYSTEM</text>
+  <text x="32" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#58a6ff" font-weight="600">Automated Biometric Identification System</text>
+
+  <circle cx="36" cy="121" r="5" fill="#58a6ff"/>
+  <text x="54" y="127" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">High-performance REST APIs for bulk ingestion and search</text>
+  <circle cx="36" cy="157" r="5" fill="#a371f7"/>
+  <text x="54" y="163" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">Legacy EFT extraction, transformation, validation, migration</text>
+  <circle cx="36" cy="193" r="5" fill="#3fb950"/>
+  <text x="54" y="199" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">PostgreSQL schema design and SQL performance optimization</text>
+  <circle cx="36" cy="229" r="5" fill="#ff7b72"/>
+  <text x="54" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">JWT, RBAC and PKI security workflows</text>
+
+  <text x="32" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">ASP.NET Core .NET 8 · PostgreSQL · WPF · REST · Security</text>
+</svg>
