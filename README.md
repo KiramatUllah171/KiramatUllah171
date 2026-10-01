@@ -22,7 +22,7 @@ Most of my work sits where backend engineering, data, and reliability meet. I en
 
 In my current role I contribute to **ABIS**, a government biometric identification system with **40+ million fingerprint, face, iris, and palm records**. My work includes bulk-ingestion and search APIs, legacy EFT data migration, PostgreSQL schema and query optimization, JWT/RBAC/PKI security workflows, and integration with WPF and web clients. I have also independently designed and built **[SachAI](https://sachaitech.com/)**, a production-oriented AI video authenticity platform made up of a .NET 10 backend, React 19 frontend, and Python FastAPI inference service.
 
-I care about writing software that is **maintainable, observable, secure, and practical to operate**. I prefer thoughtful engineering over unnecessary complexity, and I like systems where architecture, performance, security, testing, and delivery all support the same product goals. fileciteturn4file0L7-L13
+I care about writing software that is **maintainable, observable, secure, and practical to operate**. I prefer thoughtful engineering over unnecessary complexity, and I like systems where architecture, performance, security, testing, and delivery all support the same product goals.
 
 <p align="center">
   <img src="./assets/profile-overview.svg" alt="Professional overview" width="100%" />
@@ -73,13 +73,13 @@ I care about writing software that is **maintainable, observable, secure, and pr
 ### Selected Project Links
 
 - [**Portfolio — KiramatUllah**](https://github.com/KiramatUllah171/KiramatUllah) · [Live site](https://kiramat-ullah.vercel.app/)
-- [**IHMS**](https://github.com/KiramatUllah171/IHMS) — hospital management system with role-based Admin, Doctor, Patient and Pharmacy areas. fileciteturn4file0L76-L81
-- [**Airline Management System**](https://github.com/KiramatUllah171/Airline_Management_System) — airline, airport, route, schedule, fare, customer and reservation management. fileciteturn4file0L82-L85
+- [**IHMS**](https://github.com/KiramatUllah171/IHMS) — hospital management system with role-based Admin, Doctor, Patient and Pharmacy areas.
+- [**Airline Management System**](https://github.com/KiramatUllah171/Airline_Management_System) — airline, airport, route, schedule, fare, customer and reservation management.
 
 ### Education
 
 **Bachelor of Science in Computer Science (BSCS)** — Gomal University, Pakistan  
-**2019 – 2023 · CGPA 3.61 / 4.00** fileciteturn4file0L86-L88
+**2019 – 2023 · CGPA 3.61 / 4.00**
 
 ---
 
