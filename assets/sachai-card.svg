@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536 294" role="img" aria-labelledby="title desc">
+  <title id="title">SachAI</title>
+  <desc id="desc">AI Video Authenticity Platform.</desc>
+  <rect width="536" height="294" rx="20" fill="#111820" stroke="#3d444d"/>
+  <text x="32" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="27" fill="#f0f6fc" font-weight="700">SachAI</text>
+  <rect x="380" y="22" width="124" height="34" rx="10" fill="#1f7a46"/>
+  <text x="442" y="44" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">LIVE PRODUCT</text>
+  <text x="32" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#3fb950" font-weight="600">AI Video Authenticity Platform</text>
+
+  <circle cx="36" cy="121" r="5" fill="#58a6ff"/>
+  <text x="54" y="127" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">Clean Architecture .NET 10 API with Hangfire pipelines</text>
+  <circle cx="36" cy="157" r="5" fill="#39c5cf"/>
+  <text x="54" y="163" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">React 19 / TypeScript client and admin workflows</text>
+  <circle cx="36" cy="193" r="5" fill="#f0883e"/>
+  <text x="54" y="199" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">FastAPI / PyTorch inference and FFmpeg analysis</text>
+  <circle cx="36" cy="229" r="5" fill="#a371f7"/>
+  <text x="54" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">Subscriptions, Easypaisa, R2 storage, audit and observability</text>
+
+  <text x="32" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">.NET 10 · React 19 · FastAPI · PostgreSQL · Docker · Cloudflare R2</text>
+</svg>
