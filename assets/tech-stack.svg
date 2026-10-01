@@ -1,38 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
   <title id="title">Core technology stack</title>
-  <desc id="desc">Backend, frontend, data infrastructure, AI, and testing technologies.</desc>
-  <rect width="1200" height="430" rx="24" fill="#0d1117"/>
+  <desc id="desc">Backend, frontend, databases, security, AI, testing and DevOps technologies.</desc>
+  <rect width="1200" height="560" rx="24" fill="#0d1117"/>
   <text x="44" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#f0f6fc" font-weight="700">Core Technology Stack</text>
+  <text x="44" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#8b949e">Technologies I use in production work, personal products, and end-to-end delivery.</text>
 
-  <text x="44" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">BACKEND</text>
-  <rect x="44" y="128" width="92" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="61" cy="145" r="4" fill="#58a6ff"/><text x="74" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">.NET</text>
-  <rect x="144" y="128" width="76" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="161" cy="145" r="4" fill="#a371f7"/><text x="174" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">C#</text>
-  <rect x="228" y="128" width="132" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="245" cy="145" r="4" fill="#58a6ff"/><text x="258" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET Core</text>
-  <rect x="368" y="128" width="106" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="385" cy="145" r="4" fill="#a371f7"/><text x="398" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">EF Core</text>
-  <rect x="482" y="128" width="102" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="499" cy="145" r="4" fill="#39c5cf"/><text x="512" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">SignalR</text>
+  <rect x="44" y="120" width="536" height="174" rx="18" fill="#111820" stroke="#30363d"/>
+  <text x="72" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#58a6ff" font-weight="700">BACKEND &amp; .NET</text>
+  <text x="72" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#f0f6fc" font-weight="600">C# · ASP.NET Core (.NET 8 / .NET 10) · REST APIs</text>
+  <text x="72" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Clean Architecture · EF Core · FluentValidation</text>
+  <text x="72" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Microservices · Hangfire · SignalR · ASP.NET MVC</text>
 
-  <text x="620" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">FRONTEND &amp; DESKTOP</text>
-  <rect x="620" y="128" width="94" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="637" cy="145" r="4" fill="#39c5cf"/><text x="650" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">React</text>
-  <rect x="722" y="128" width="102" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="739" cy="145" r="4" fill="#ff7b72"/><text x="752" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Angular</text>
-  <rect x="832" y="128" width="118" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="849" cy="145" r="4" fill="#58a6ff"/><text x="862" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">TypeScript</text>
-  <rect x="958" y="128" width="82" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="975" cy="145" r="4" fill="#a371f7"/><text x="988" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">WPF</text>
-  <rect x="1048" y="128" width="82" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="1065" cy="145" r="4" fill="#d29922"/><text x="1078" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Vite</text>
+  <rect x="620" y="120" width="536" height="174" rx="18" fill="#111820" stroke="#30363d"/>
+  <text x="648" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#39c5cf" font-weight="700">FRONTEND &amp; DESKTOP</text>
+  <text x="648" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#f0f6fc" font-weight="600">React 19 · Angular · TypeScript · JavaScript</text>
+  <text x="648" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Vite · Ant Design · TanStack Query</text>
+  <text x="648" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">WPF · MVVM · frontend/backend integration</text>
 
-  <text x="44" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">DATA / INFRA</text>
-  <rect x="44" y="248" width="118" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="61" cy="265" r="4" fill="#58a6ff"/><text x="74" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">PostgreSQL</text>
-  <rect x="170" y="248" width="120" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="187" cy="265" r="4" fill="#ff7b72"/><text x="200" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">SQL Server</text>
-  <rect x="298" y="248" width="98" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="315" cy="265" r="4" fill="#39c5cf"/><text x="328" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Docker</text>
-  <rect x="404" y="248" width="82" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="421" cy="265" r="4" fill="#f0883e"/><text x="434" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Git</text>
-  <rect x="494" y="248" width="96" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="511" cy="265" r="4" fill="#3fb950"/><text x="524" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Serilog</text>
+  <rect x="44" y="324" width="536" height="190" rx="18" fill="#111820" stroke="#30363d"/>
+  <text x="72" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#a371f7" font-weight="700">DATA, SECURITY &amp; INFRASTRUCTURE</text>
+  <text x="72" y="396" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#f0f6fc" font-weight="600">PostgreSQL · SQL Server · MySQL · data modeling</text>
+  <text x="72" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Query optimization · indexing · EF migrations</text>
+  <text x="72" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">JWT · Identity · OAuth · RBAC · PKI · Keycloak</text>
+  <text x="72" y="486" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Rate limiting · encryption · Cloudflare R2 · Docker</text>
 
-  <text x="620" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">AI / TESTING</text>
-  <rect x="620" y="248" width="92" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="637" cy="265" r="4" fill="#3fb950"/><text x="650" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">FastAPI</text>
-  <rect x="720" y="248" width="96" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="737" cy="265" r="4" fill="#ff7b72"/><text x="750" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">PyTorch</text>
-  <rect x="824" y="248" width="94" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="841" cy="265" r="4" fill="#3fb950"/><text x="854" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">FFmpeg</text>
-  <rect x="926" y="248" width="86" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="943" cy="265" r="4" fill="#a371f7"/><text x="956" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">xUnit</text>
-  <rect x="1020" y="248" width="110" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="1037" cy="265" r="4" fill="#3fb950"/><text x="1050" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Playwright</text>
+  <rect x="620" y="324" width="536" height="190" rx="18" fill="#111820" stroke="#30363d"/>
+  <text x="648" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#3fb950" font-weight="700">AI, TESTING &amp; DELIVERY</text>
+  <text x="648" y="396" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#f0f6fc" font-weight="600">Python · FastAPI · PyTorch · Hugging Face · FFmpeg</text>
+  <text x="648" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">xUnit · pytest · Vitest · Playwright · health checks</text>
+  <text x="648" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Git · Serilog · Docker · production debugging</text>
+  <text x="648" y="486" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Agile/Scrum · performance tuning · AI-assisted development</text>
 
-  <rect x="44" y="326" width="1112" height="62" rx="16" fill="#111820" stroke="#30363d"/>
-  <text x="70" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#58a6ff" font-weight="700">ENGINEERING FOCUS</text>
-  <text x="70" y="376" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#c9d1d9">Clean architecture · database performance · secure APIs · distributed processing · practical AI integration</text>
+  <text x="44" y="540" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6e7681">Primary focus: maintainable backend architecture, efficient data access, secure workflows, failure-resistant processing and practical product delivery.</text>
 </svg>
