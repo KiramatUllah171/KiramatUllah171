@@ -25,7 +25,18 @@ In my current role I contribute to **ABIS**, a government biometric identificati
 I care about writing software that is **maintainable, observable, secure, and practical to operate**. I prefer thoughtful engineering over unnecessary complexity, and I like systems where architecture, performance, security, testing, and delivery all support the same product goals.
 
 <p align="center">
-  <img src="./assets/profile-overview.svg" alt="Professional overview" width="100%" />
+  <img src="./assets/profile-overview-top.svg" alt="Professional overview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/abis-card.svg" alt="ABIS" width="49%" />
+  <a href="https://sachaitech.com/">
+    <img src="./assets/sachai-card.svg" alt="SachAI — Live Product" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Production experience across backend architecture, data, security, frontend integration, debugging, testing and Agile delivery.</sub>
 </p>
 
 ---
