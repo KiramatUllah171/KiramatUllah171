@@ -16,7 +16,13 @@
 
 ## About
 
-I am a **backend-focused Full Stack .NET Engineer** with **3+ years of experience** building secure, data-intensive applications across APIs, relational data, background processing, authentication and authorization, and React, Angular, and WPF clients.
+I am a **backend-focused Full Stack .NET Engineer** with **3+ years of professional experience** building and supporting production applications across APIs, relational databases, background processing, security, and modern web and desktop clients.
+
+Most of my work sits where backend engineering, data, and reliability meet. I enjoy designing APIs that are clear to consume, shaping database schemas around real workflows, improving slow queries, handling authentication and authorization correctly, and making background jobs resilient when something fails halfway through. I am comfortable moving across the full stack when a feature needs it, whether that means integrating a React or Angular client, working with a WPF desktop application, or debugging an issue across several layers of a system.
+
+In my current role I contribute to **ABIS**, a government biometric identification system with **40+ million fingerprint, face, iris, and palm records**. My work includes bulk-ingestion and search APIs, legacy EFT data migration, PostgreSQL schema and query optimization, JWT/RBAC/PKI security workflows, and integration with WPF and web clients. I have also independently designed and built **[SachAI](https://sachaitech.com/)**, a production-oriented AI video authenticity platform made up of a .NET 10 backend, React 19 frontend, and Python FastAPI inference service.
+
+I care about writing software that is **maintainable, observable, secure, and practical to operate**. I prefer thoughtful engineering over unnecessary complexity, and I like systems where architecture, performance, security, testing, and delivery all support the same product goals. fileciteturn4file0L7-L13
 
 <p align="center">
   <img src="./assets/profile-overview.svg" alt="Professional overview" width="100%" />
@@ -58,17 +64,22 @@ I am a **backend-focused Full Stack .NET Engineer** with **3+ years of experienc
 
 ---
 
-## Experience & Selected Projects
+## Experience, Projects & Education
 
 <p align="center">
-  <img src="./assets/career-projects.svg" alt="Experience, selected projects, and engineering focus" width="100%" />
+  <img src="./assets/career-projects.svg" alt="Experience, selected projects, and education" width="100%" />
 </p>
 
-### Project Links
+### Selected Project Links
 
 - [**Portfolio — KiramatUllah**](https://github.com/KiramatUllah171/KiramatUllah) · [Live site](https://kiramat-ullah.vercel.app/)
-- [**IHMS**](https://github.com/KiramatUllah171/IHMS)
-- [**Airline Management System**](https://github.com/KiramatUllah171/Airline_Management_System)
+- [**IHMS**](https://github.com/KiramatUllah171/IHMS) — hospital management system with role-based Admin, Doctor, Patient and Pharmacy areas. fileciteturn4file0L76-L81
+- [**Airline Management System**](https://github.com/KiramatUllah171/Airline_Management_System) — airline, airport, route, schedule, fare, customer and reservation management. fileciteturn4file0L82-L85
+
+### Education
+
+**Bachelor of Science in Computer Science (BSCS)** — Gomal University, Pakistan  
+**2019 – 2023 · CGPA 3.61 / 4.00** fileciteturn4file0L86-L88
 
 ---
 
@@ -83,7 +94,7 @@ I am a **backend-focused Full Stack .NET Engineer** with **3+ years of experienc
 
 ## Let's Connect
 
-Open to **Full Stack .NET** and **Backend .NET** opportunities, plus collaboration on secure APIs, scalable backend systems, data-intensive applications, and practical AI products.
+I am open to **Full Stack .NET** and **Backend .NET** opportunities, especially roles involving secure APIs, relational data, performance-sensitive backend systems, background processing, production debugging, and practical AI integration.
 
 <p align="center">
   <a href="https://kiramat-ullah.vercel.app/">
