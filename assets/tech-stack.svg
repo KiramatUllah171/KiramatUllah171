@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Core technology stack</title>
+  <desc id="desc">Backend, frontend, data infrastructure, AI, and testing technologies.</desc>
+  <rect width="1200" height="430" rx="24" fill="#0d1117"/>
+  <text x="44" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#f0f6fc" font-weight="700">Core Technology Stack</text>
+
+  <text x="44" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">BACKEND</text>
+  <rect x="44" y="128" width="92" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="61" cy="145" r="4" fill="#58a6ff"/><text x="74" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">.NET</text>
+  <rect x="144" y="128" width="76" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="161" cy="145" r="4" fill="#a371f7"/><text x="174" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">C#</text>
+  <rect x="228" y="128" width="132" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="245" cy="145" r="4" fill="#58a6ff"/><text x="258" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET Core</text>
+  <rect x="368" y="128" width="106" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="385" cy="145" r="4" fill="#a371f7"/><text x="398" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">EF Core</text>
+  <rect x="482" y="128" width="102" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="499" cy="145" r="4" fill="#39c5cf"/><text x="512" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">SignalR</text>
+
+  <text x="620" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">FRONTEND &amp; DESKTOP</text>
+  <rect x="620" y="128" width="94" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="637" cy="145" r="4" fill="#39c5cf"/><text x="650" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">React</text>
+  <rect x="722" y="128" width="102" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="739" cy="145" r="4" fill="#ff7b72"/><text x="752" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Angular</text>
+  <rect x="832" y="128" width="118" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="849" cy="145" r="4" fill="#58a6ff"/><text x="862" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">TypeScript</text>
+  <rect x="958" y="128" width="82" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="975" cy="145" r="4" fill="#a371f7"/><text x="988" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">WPF</text>
+  <rect x="1048" y="128" width="82" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="1065" cy="145" r="4" fill="#d29922"/><text x="1078" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Vite</text>
+
+  <text x="44" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">DATA / INFRA</text>
+  <rect x="44" y="248" width="118" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="61" cy="265" r="4" fill="#58a6ff"/><text x="74" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">PostgreSQL</text>
+  <rect x="170" y="248" width="120" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="187" cy="265" r="4" fill="#ff7b72"/><text x="200" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">SQL Server</text>
+  <rect x="298" y="248" width="98" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="315" cy="265" r="4" fill="#39c5cf"/><text x="328" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Docker</text>
+  <rect x="404" y="248" width="82" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="421" cy="265" r="4" fill="#f0883e"/><text x="434" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Git</text>
+  <rect x="494" y="248" width="96" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="511" cy="265" r="4" fill="#3fb950"/><text x="524" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Serilog</text>
+
+  <text x="620" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" font-weight="700">AI / TESTING</text>
+  <rect x="620" y="248" width="92" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="637" cy="265" r="4" fill="#3fb950"/><text x="650" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">FastAPI</text>
+  <rect x="720" y="248" width="96" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="737" cy="265" r="4" fill="#ff7b72"/><text x="750" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">PyTorch</text>
+  <rect x="824" y="248" width="94" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="841" cy="265" r="4" fill="#3fb950"/><text x="854" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">FFmpeg</text>
+  <rect x="926" y="248" width="86" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="943" cy="265" r="4" fill="#a371f7"/><text x="956" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">xUnit</text>
+  <rect x="1020" y="248" width="110" height="34" rx="10" fill="#161b22" stroke="#30363d"/><circle cx="1037" cy="265" r="4" fill="#3fb950"/><text x="1050" y="271" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Playwright</text>
+
+  <rect x="44" y="326" width="1112" height="62" rx="16" fill="#111820" stroke="#30363d"/>
+  <text x="70" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#58a6ff" font-weight="700">ENGINEERING FOCUS</text>
+  <text x="70" y="376" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#c9d1d9">Clean architecture · database performance · secure APIs · distributed processing · practical AI integration</text>
+</svg>
