@@ -1,61 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
-  <title id="title">Experience and projects</title>
-  <desc id="desc">Career timeline, selected projects, engineering focus, and opportunities call to action.</desc>
-  <rect width="1200" height="900" rx="24" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Experience, projects and education</title>
+  <desc id="desc">Career timeline, selected projects, education, languages and engineering focus.</desc>
+  <rect width="1200" height="1100" rx="24" fill="#0d1117"/>
   <rect width="1200" height="104" rx="24" fill="#0f2746"/>
   <text x="44" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#58a6ff" font-weight="700">CAREER &amp; PROOF</text>
-  <text x="44" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="31" fill="#f0f6fc" font-weight="700">Experience, Projects &amp; Engineering Focus</text>
+  <text x="44" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="31" fill="#f0f6fc" font-weight="700">Experience, Projects &amp; Education</text>
 
-  <rect x="44" y="140" width="1112" height="310" rx="20" fill="#111820" stroke="#3d444d"/>
-  <text x="76" y="186" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#f0f6fc" font-weight="700">Experience</text>
-  <line x1="99" x2="99" y1="238" y2="397" stroke="#3d444d" stroke-width="2"/>
+  <rect x="44" y="140" width="1112" height="408" rx="20" fill="#111820" stroke="#3d444d"/>
+  <text x="76" y="186" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#f0f6fc" font-weight="700">Professional Experience</text>
+  <line x1="99" x2="99" y1="236" y2="486" stroke="#3d444d" stroke-width="2"/>
 
-  <circle cx="99" cy="244" r="8" fill="#58a6ff"/>
-  <text x="135" y="239" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="700">C# .NET &amp; WPF Developer</text>
-  <text x="135" y="267" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">TechoStudios Pvt Ltd</text>
+  <circle cx="99" cy="246" r="8" fill="#58a6ff"/>
+  <text x="135" y="241" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="700">C# .NET &amp; WPF Developer</text>
+  <text x="135" y="269" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">TechoStudios Pvt Ltd · Islamabad, Pakistan</text>
   <text x="1118" y="247" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#58a6ff">Apr 2025 – Present</text>
+  <text x="135" y="297" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ABIS: bulk-ingestion/search APIs, legacy migration, PostgreSQL performance, JWT/RBAC/PKI, WPF integration.</text>
 
-  <circle cx="99" cy="320" r="8" fill="#3fb950"/>
-  <text x="135" y="315" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="700">C# .NET &amp; React Developer</text>
-  <text x="135" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Datagonomix / 1Journey.ai Pvt Ltd</text>
-  <text x="1118" y="323" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#3fb950">Jan 2024 – Apr 2025</text>
+  <circle cx="99" cy="348" r="8" fill="#3fb950"/>
+  <text x="135" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="700">C# .NET &amp; React Developer</text>
+  <text x="135" y="371" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Datagonomix / 1Journey.ai Pvt Ltd · Pakistan</text>
+  <text x="1118" y="349" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#3fb950">Jan 2024 – Apr 2025</text>
+  <text x="135" y="399" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">Production features across ASP.NET Core and React; contributed to the public 1Journey.ai education platform.</text>
 
-  <circle cx="99" cy="396" r="8" fill="#a371f7"/>
-  <text x="135" y="391" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="700">C# .NET &amp; Angular Developer (Intern)</text>
-  <text x="135" y="419" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Arhpez Technologies Pvt Ltd</text>
-  <text x="1118" y="399" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a371f7">Jul 2023 – Jan 2024</text>
+  <circle cx="99" cy="450" r="8" fill="#a371f7"/>
+  <text x="135" y="445" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="700">C# .NET &amp; Angular Developer (Intern)</text>
+  <text x="135" y="473" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Arhpez Technologies Pvt Ltd · Islamabad, Pakistan</text>
+  <text x="1118" y="451" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a371f7">Jul 2023 – Jan 2024</text>
+  <text x="135" y="501" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET Core and Angular features, backend logic, API work, database design, debugging and team delivery.</text>
 
-  <rect x="44" y="486" width="348" height="190" rx="20" fill="#161b22" stroke="#3d444d"/>
-  <text x="70" y="526" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#58a6ff" font-weight="700">PORTFOLIO</text>
-  <text x="70" y="562" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">KiramatUllah</text>
-  <text x="70" y="598" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Personal portfolio showcasing experience,</text>
-  <text x="70" y="620" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">skills and selected work.</text>
-  <text x="70" y="652" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">React · Vite</text>
+  <text x="44" y="596" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#f0f6fc" font-weight="700">Selected Projects</text>
 
-  <rect x="426" y="486" width="348" height="190" rx="20" fill="#161b22" stroke="#3d444d"/>
-  <text x="452" y="526" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#3fb950" font-weight="700">IHMS</text>
-  <text x="452" y="562" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Hospital Management</text>
-  <text x="452" y="598" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Admin, doctor, patient, appointments,</text>
-  <text x="452" y="620" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">pharmacy and inventory workflows.</text>
-  <text x="452" y="652" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET MVC 5 · EF</text>
+  <rect x="44" y="620" width="348" height="190" rx="20" fill="#161b22" stroke="#3d444d"/>
+  <text x="70" y="660" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#58a6ff" font-weight="700">PORTFOLIO</text>
+  <text x="70" y="696" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">KiramatUllah</text>
+  <text x="70" y="732" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Personal developer portfolio for experience,</text>
+  <text x="70" y="754" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">skills and project presentation.</text>
+  <text x="70" y="786" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">React · Vite</text>
 
-  <rect x="808" y="486" width="348" height="190" rx="20" fill="#161b22" stroke="#3d444d"/>
-  <text x="834" y="526" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f0883e" font-weight="700">AIRLINE SYSTEM</text>
-  <text x="834" y="562" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Reservation Platform</text>
-  <text x="834" y="598" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Airlines, routes, schedules, fares, cabins</text>
-  <text x="834" y="620" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">and reservations.</text>
-  <text x="834" y="652" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET MVC 5 · EF</text>
+  <rect x="426" y="620" width="348" height="190" rx="20" fill="#161b22" stroke="#3d444d"/>
+  <text x="452" y="660" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#3fb950" font-weight="700">IHMS · 2023</text>
+  <text x="452" y="696" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Hospital Management</text>
+  <text x="452" y="732" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Admin, doctor, patient, appointments,</text>
+  <text x="452" y="754" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">pharmacy, purchases, sales and stock.</text>
+  <text x="452" y="786" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET MVC 5 · Entity Framework</text>
 
-  <rect x="44" y="716" width="536" height="118" rx="20" fill="#111820" stroke="#3d444d"/>
-  <text x="76" y="754" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Engineering Focus</text>
-  <circle cx="80" cy="787" r="5" fill="#58a6ff"/><text x="98" y="792" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">Reliable backend systems</text>
-  <circle cx="280" cy="787" r="5" fill="#3fb950"/><text x="298" y="792" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">Clean architecture</text>
-  <circle cx="438" cy="787" r="5" fill="#a371f7"/><text x="456" y="792" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">Practical AI</text>
+  <rect x="808" y="620" width="348" height="190" rx="20" fill="#161b22" stroke="#3d444d"/>
+  <text x="834" y="660" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f0883e" font-weight="700">AIRLINE SYSTEM · 2024</text>
+  <text x="834" y="696" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Reservation Platform</text>
+  <text x="834" y="732" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Airlines, airports, routes, schedules, cabins,</text>
+  <text x="834" y="754" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">fares, customers and reservations.</text>
+  <text x="834" y="786" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c9d1d9">ASP.NET MVC 5 · Entity Framework</text>
 
-  <rect x="620" y="716" width="536" height="118" rx="20" fill="#111820" stroke="#58a6ff"/>
-  <text x="652" y="754" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Open to Full Stack .NET &amp; Backend .NET opportunities</text>
-  <text x="652" y="786" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">Also open to APIs, secure backend systems, scalable workflows,</text>
-  <text x="652" y="808" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">and practical AI product collaboration.</text>
+  <rect x="44" y="850" width="536" height="190" rx="20" fill="#111820" stroke="#3d444d"/>
+  <text x="76" y="890" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Education &amp; Languages</text>
+  <text x="76" y="928" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#58a6ff" font-weight="700">BS Computer Science · Gomal University</text>
+  <text x="76" y="956" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c9d1d9">2019 – 2023 · CGPA 3.61 / 4.00</text>
+  <text x="76" y="992" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e">English — Fluent   ·   Urdu — Native</text>
 
-  <text x="44" y="872" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#6e7681">Focused · Credible · Readable · Built around real work and repositories</text>
+  <rect x="620" y="850" width="536" height="190" rx="20" fill="#111820" stroke="#58a6ff"/>
+  <text x="652" y="890" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">Engineering Focus</text>
+  <text x="652" y="928" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Reliable APIs · clean architecture · SQL performance</text>
+  <text x="652" y="958" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Secure auth · background processing · production debugging</text>
+  <text x="652" y="988" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d1d9">Full-stack integration · practical AI · maintainable delivery</text>
+  <text x="652" y="1022" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#58a6ff">Open to Full Stack .NET and Backend .NET opportunities</text>
+
+  <text x="44" y="1076" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6e7681">Built around real production work, shipped products, measurable scale and technologies used hands-on.</text>
 </svg>
